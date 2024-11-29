@@ -1,5 +1,5 @@
 function updateWeather(response) {
-  console.log(response);
+  console.log(response.data);
 }
 
 function searchCity(city) {
